@@ -1,0 +1,1 @@
+Crawls a given url and stores any images found in the html to your local hard drive. You may specify a crawl depth to limit the depth of the links followed.
